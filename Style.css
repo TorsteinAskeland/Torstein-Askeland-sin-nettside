@@ -1,0 +1,88 @@
+body    {
+    background-color: darkblue;
+}
+
+h1  {
+    color: lightblue;
+}
+
+.hoved  {    
+    background-color: blue;
+    width: 97.3%;
+    height: 90%;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: center;
+}
+
+img {
+    width: 140px;
+    height: 210px;
+}
+
+div {
+    border-radius: 10px; 
+    gap: 20px;
+    padding: 20px;
+    margin-top: 20px auto;
+}
+
+
+.link   {
+    text-decoration:none;
+}
+
+.link :hover    {
+    color:grey;
+
+}
+
+.box    {
+    background-color: darkblue;
+    margin:10px auto; 
+    text-align: center; 
+    color: white;
+    width: 400px;
+    height: 400px;
+}
+
+.boxinfo   {
+    background-color: darkblue;
+    margin:10px auto; 
+    text-align: center; 
+    color: white;
+    width: 95%;
+    height: 1190px;
+
+}
+
+.info {
+    border-radius: 10px; 
+    gap: 20px;
+    padding: 20px;
+    margin-top: 20px auto;
+    background-color: blue;
+    width: 97.3%;
+    height: 90%;
+    
+    
+    align-items: center;
+}
+
+.bilde  {
+    width: 200px;
+    height: 300px;
+}
+
+.Tilbake:hover    {
+    color: grey;
+}
+
+.linkbox    {
+    color: white
+}
+
+.bilde2 {
+    height: 300px;
+    width: 300px;
+}
